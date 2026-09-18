@@ -1,18 +1,23 @@
-# [What you are building]
+# Sandbox — Medical Student Test Prep (idea under validation)
 
-> One sentence: what this is and who it is for.
+> Not decided yet. Sprint 1 is about validating whether a medical student test prep app is
+> worth building with my team.
 
-**Live:** [URL]
-**Built by:** [your name], MSB 341 Product Management, BYU
+**Live:** Not live yet
+**Built by:** Yitong Zheng (yitongz), MSB 341 Product Management, BYU
 
 ## Context
 
 Fill this in during Sprint 1 and keep it current. Every sprint is read against it.
 
-- **What I am building:**
-- **Who it is for:**
-- **My role:** [solo builder, or your role on a team]
-- **My user:** [the specific person who will use this, and how you reach them]
+- **What I am building:** Not decided. Currently validating whether to build a medical
+  student test prep app, as one of a few candidate ideas for the semester.
+- **Who it is for:** Not decided. If the test prep app moves forward, medical students
+  preparing for board exams.
+- **My role:** Not decided. I combine product, research, and some engineering as the team is
+  still forming.
+- **My user:** Not decided. Will be a specific medical student identified through the
+  interviews this sprint, once the idea and team are confirmed.
 
 If your situation changes, revise this and note what changed. That is normal; a silent
 mismatch between this file and your work is not.
