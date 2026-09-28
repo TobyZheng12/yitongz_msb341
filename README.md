@@ -1,23 +1,26 @@
-# Sandbox — Medical Student Test Prep (idea under validation)
+# Sandbox — Study Strategy App (pivoting from MCAT-specific test prep)
 
-> Not decided yet. Sprint 1 is about validating whether a medical student test prep app is
-> worth building with my team.
+> A study-help app for price-sensitive college students. Started as a medical school test
+> prep idea; broadened after interviews showed we lack the domain depth for MCAT-specific
+> content. See decisions/001-pivot-from-mcat-focus.md.
 
-**Live:** Not live yet
+**Live:** Not live yet. Prototype: https://claude.ai/artifact/3Zhb5ev6J9Se4JbpZL1Sp3
 **Built by:** Yitong Zheng (yitongz), MSB 341 Product Management, BYU
 
 ## Context
 
 Fill this in during Sprint 1 and keep it current. Every sprint is read against it.
 
-- **What I am building:** Not decided. Currently validating whether to build a medical
-  student test prep app, as one of a few candidate ideas for the semester.
-- **Who it is for:** Not decided. If the test prep app moves forward, medical students
-  preparing for board exams.
-- **My role:** Not decided. I combine product, research, and some engineering as the team is
-  still forming.
-- **My user:** Not decided. Will be a specific medical student identified through the
-  interviews this sprint, once the idea and team are confirmed.
+- **What I am building:** A study-strategy help app for price-sensitive college students.
+  Pivoted away from a pure MCAT/medical-school test-prep focus after interviews (see
+  decisions/001-pivot-from-mcat-focus.md). Still exploring, and open to also pursuing a
+  prospective teammate's own project idea in parallel.
+- **Who it is for:** Price-sensitive college students who want better study strategies —
+  validated so far with pre-med students, not exclusively medical-school specific anymore.
+- **My role:** Customer discovery and team recruiting. My teammate Shulin owns building and
+  iterating on the product. We are also recruiting an American teammate, since both of us are
+  international students and are not permitted to run the business ourselves.
+- **My user:** Pre-med / college students, starting with the 3 interviewed this sprint.
 
 If your situation changes, revise this and note what changed. That is normal; a silent
 mismatch between this file and your work is not.
