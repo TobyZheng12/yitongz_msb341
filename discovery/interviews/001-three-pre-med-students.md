@@ -1,12 +1,14 @@
 # Interviews: 3 pre-med / college students (aggregate)
 
-**Date:** [fill in exact dates — sprint window was 2026-09-18 to 2026-09-28]
-**How we found them:** [fill in — e.g., personal network, Sandbox contacts]
+**Date:** Week of 2026-09-21 to 2026-09-28 (first interview Monday, 2026-09-21)
+**How we found them:** Three pre-med students, reached through three different channels — a
+fellow Sandbox student, a pre-med classmate, and a student working as a nurse assistant at the
+BYU Student Health Center (met after a personal appointment there).
 **Persona:** See discovery/personas.md — "Price-sensitive college student"
 
 ## What we asked / what happened
 
-Talked with 3 pre-med / college students about the medical school test prep app concept.
+Talked with 3 pre-med students about the medical school test prep app concept.
 
 ## What they actually do today
 
