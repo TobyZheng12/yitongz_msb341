@@ -1,29 +1,41 @@
-# Sandbox — Study Strategy App (pivoting from MCAT-specific test prep)
+# PengPal — local company for foreign travelers in China
 
-> A study-help app for price-sensitive college students. Started as a medical school test
-> prep idea; broadened after interviews showed we lack the domain depth for MCAT-specific
-> content. See decisions/001-pivot-from-mcat-focus.md.
+> A platform where foreign travelers in China can find local Chinese people who speak their
+> language. Replaced the medical school test prep idea in Sprint 2, after OpenAI's Muse and
+> Dots launched and could do what we were planning. See decisions/002-pivot-to-pengpal.md.
 
-**Live:** Not live yet. Prototype: https://claude.ai/artifact/3Zhb5ev6J9Se4JbpZL1Sp3
+**Live:** Not live yet. PengPal is at the pitch and business brief stage.
 **Built by:** Yitong Zheng (yitongz), MSB 341 Product Management, BYU
 
 ## Context
 
-Fill this in during Sprint 1 and keep it current. Every sprint is read against it.
+Updated Sprint 2 (Oct 12, 2026). Changed from the study-strategy app because interviews and
+competitor research killed that idea; see decisions/002-pivot-to-pengpal.md.
 
-- **What I am building:** A study-strategy help app for price-sensitive college students.
-  Pivoted away from a pure MCAT/medical-school test-prep focus after interviews (see
-  decisions/001-pivot-from-mcat-focus.md). Still exploring, and open to also pursuing a
-  prospective teammate's own project idea in parallel.
-- **Who it is for:** Price-sensitive college students who want better study strategies —
-  validated so far with pre-med students, not exclusively medical-school specific anymore.
-- **My role:** Customer discovery and team recruiting. My teammate Shulin owns building and
-  iterating on the product. We are also recruiting an American teammate, since both of us are
-  international students and are not permitted to run the business ourselves.
-- **My user:** Pre-med / college students, starting with the 3 interviewed this sprint.
+- **What I am building:** PengPal, a platform connecting foreign travelers in China with local
+  Chinese people who speak their language. Previously a medical school test prep app, then a
+  study-strategy app; both dropped in Sprint 2.
+- **Who it is for:** Foreign travelers in China who do not speak Chinese, and the local Chinese
+  people who want to meet them.
+- **My role:** Customer discovery, competitor research, pitching, and teammate recruiting. My
+  teammate Shulin works alongside me. We are still recruiting a third teammate, since neither of
+  us can legally run the business as international students. I also build my own apps with
+  Claude Code and Codex to learn the tools, listed below.
+- **My user:** Foreign travelers going to China, and English-speaking locals in Chinese cities.
 
 If your situation changes, revise this and note what changed. That is normal; a silent
 mismatch between this file and your work is not.
+
+## Where the work lives
+
+- **Repos:** TobyZheng12/yitongz_msb341 (this one, shared with sdmurff and nmccaul);
+  TobyZheng12/coffeechat-ai (public); TobyZheng12/TOBY.PAGE (public). The scripture study app
+  is a local repo with no GitHub remote.
+- **Live:** https://coffeechat-ai-six.vercel.app/ (CoffeeChatAI — networking assistant that
+  generates call scripts, tracks follow-ups, and records notes); https://yitongz.com (personal
+  professional website); https://scripture-primer.vercel.app/ (scripture study app).
+- **Docs:** PengPal business brief for the advisor, and the Big Idea Competition pitch deck and
+  video (submitted Oct 8, 2026).
 
 ## What is in this repo
 
