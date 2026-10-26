@@ -4,7 +4,9 @@
 > language. Replaced the medical school test prep idea in Sprint 2, after OpenAI's Muse and
 > Dots launched and could do what we were planning. See decisions/002-pivot-to-pengpal.md.
 
-**Live:** Not live yet. PengPal is at the pitch and business brief stage.
+**Live:** Prototype at https://shulinzzz.github.io/MSB-341_Shulin_Repo/product/pengpal/ (an
+interactive demo of one trip; no real bookings). Won 2nd place and Crowd Choice ($1,300) at the
+Big Idea Competition, October 2026.
 **Built by:** Yitong Zheng (yitongz), MSB 341 Product Management, BYU
 
 ## Context
@@ -18,8 +20,8 @@ competitor research killed that idea; see decisions/002-pivot-to-pengpal.md.
 - **Who it is for:** Foreign travelers in China who do not speak Chinese, and the local Chinese
   people who want to meet them.
 - **My role:** Customer discovery, competitor research, pitching, and teammate recruiting. My
-  teammate Shulin works alongside me. We are still recruiting a third teammate, since neither of
-  us can legally run the business as international students. I also build my own apps with
+  teammate Shulin works alongside me and built the PengPal prototype. In Sprint 2 we decided a
+  third teammate can wait until there is a product to maintain. I also build my own apps with
   Claude Code and Codex to learn the tools, listed below.
 - **My user:** Foreign travelers going to China, and English-speaking locals in Chinese cities.
 
@@ -29,13 +31,16 @@ mismatch between this file and your work is not.
 ## Where the work lives
 
 - **Repos:** TobyZheng12/yitongz_msb341 (this one, shared with sdmurff and nmccaul);
-  TobyZheng12/coffeechat-ai (public); TobyZheng12/TOBY.PAGE (public). The scripture study app
-  is a local repo with no GitHub remote.
-- **Live:** https://coffeechat-ai-six.vercel.app/ (CoffeeChatAI — networking assistant that
+  shulinzzz/MSB-341_Shulin_Repo (Shulin's course repo, public; the PengPal prototype is in
+  `product/pengpal/`); TobyZheng12/coffeechat-ai (public); TobyZheng12/TOBY.PAGE (public). The
+  scripture study app is a local repo with no GitHub remote.
+- **Live:** https://shulinzzz.github.io/MSB-341_Shulin_Repo/product/pengpal/ (PengPal
+  prototype); https://coffeechat-ai-six.vercel.app/ (CoffeeChat AI, a networking assistant that
   generates call scripts, tracks follow-ups, and records notes); https://yitongz.com (personal
-  professional website); https://scripture-primer.vercel.app/ (scripture study app).
-- **Docs:** PengPal business brief for the advisor, and the Big Idea Competition pitch deck and
-  video (submitted Oct 8, 2026).
+  professional website, which now features CoffeeChat AI); https://scripture-primer.vercel.app/
+  (scripture study app).
+- **Docs:** PengPal business brief for the advisor, and the Big Idea Competition pitch deck
+  (Oct 8 submission and the final deck for the Oct 23 pitch).
 
 ## What is in this repo
 
