@@ -32,7 +32,8 @@ mismatch between this file and your work is not.
 
 - **Repos:** TobyZheng12/yitongz_msb341 (this one, shared with sdmurff and nmccaul);
   shulinzzz/MSB-341_Shulin_Repo (Shulin's course repo, public; the PengPal prototype is in
-  `product/pengpal/`); TobyZheng12/coffeechat-ai (public); TobyZheng12/TOBY.PAGE (public). The
+  `product/pengpal/`); TobyZheng12/coffeechat-ai and TobyZheng12/TOBY.PAGE (both public, sdmurff
+invited Oct 26). The
   scripture study app is a local repo with no GitHub remote.
 - **Live:** https://shulinzzz.github.io/MSB-341_Shulin_Repo/product/pengpal/ (PengPal
   prototype); https://coffeechat-ai-six.vercel.app/ (CoffeeChat AI, a networking assistant that
