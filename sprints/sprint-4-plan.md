@@ -12,3 +12,14 @@
 - At least one course section studied with `/learn`, with its log in `learning/`.
 
 **Predicted difficulty:** 4
+
+## Changes
+
+**2026-11-09:** The prototype change for "how do I contact the local after booking" moves to
+Sprint 5. The China legal research (Nov 5) showed that Day One should use the language-exchange
+model, where locals are unpaid volunteers, not paid guides. That changes how travelers should
+reach their local after booking, so the contact flow has to be redesigned around that model
+before it is built. This sprint the team discussed the best way for customers to contact the
+locals and researched how to implement it (for example, the legal doc's finding that the local
+side should run on WeChat groups or WeCom for now, since a mini program needs a Chinese
+entity). Shulin has not built it yet.
