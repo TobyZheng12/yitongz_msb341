@@ -42,6 +42,16 @@ invited Oct 26). The
   (scripture study app).
 - **Docs:** PengPal business brief for the advisor, and the Big Idea Competition pitch deck
   (Oct 8 submission and the final deck for the Oct 23 pitch).
+- **Sprint 4 docs** (Claude Docs, viewable by anyone with the link):
+  - China legal summary, "PengPal 在中国合规运营：问题与解决方案" (Nov 5): the legal risks
+    for locals and the platform, four operating models from lowest to highest risk, the Great
+    Firewall and tech rules, and US-side risks. https://claude.ai/artifact/XdyZ7eNXAHpxXoDogXVTCZ
+  - Equity doc, "PengPal Team Talk: Equity, Money & Mission Handoff" (Nov 2): F-1 and OPT
+    guardrails, an equity structure with vesting and an example split, revenue rules, and the
+    team meeting agenda. https://claude.ai/artifact/6X6hFvNh7bH5meAGhHBjSS
+  - Next-steps list: the "下一步与待讨论问题" checklist in the legal doc and the
+    "Before Dec 30 / 传教前清单" checklist in the equity doc.
+- **Learning:** `learning/2026-11-09-the-data-model-is-the-skeleton.md` (Sprint 4 `/learn`).
 
 ## What is in this repo
 
